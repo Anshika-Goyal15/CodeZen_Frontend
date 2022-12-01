@@ -2,7 +2,7 @@
   "name": "st1",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "http://Anshika-Goyal15.github.io/CodeZen_MongoDB",
+  "homepage" : "http://Anshika-Goyal15.github.io/CodeZen_Frontend",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
